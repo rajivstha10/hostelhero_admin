@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "684851937786",
+    "project_id": "hostel-hero",
+    "storage_bucket": "hostel-hero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684851937786:android:874b7bdddbc18331256443",
+        "android_client_info": {
+          "package_name": "com.example.hostelhero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684851937786-cgd1rkmiq8ltt11puogs6eat0o4hs3pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnDBE2VVm84PGV7YDNALzfGtYPIeYR068"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684851937786-cgd1rkmiq8ltt11puogs6eat0o4hs3pn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684851937786-avaq2mat0og5f8og2fbhct0uj9mvb1ur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hostelhero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684851937786:android:adbdb3c973248588256443",
+        "android_client_info": {
+          "package_name": "com.example.hostelhero_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684851937786-cgd1rkmiq8ltt11puogs6eat0o4hs3pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnDBE2VVm84PGV7YDNALzfGtYPIeYR068"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684851937786-cgd1rkmiq8ltt11puogs6eat0o4hs3pn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684851937786-avaq2mat0og5f8og2fbhct0uj9mvb1ur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hostelhero"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
